@@ -1,1 +1,1 @@
-# InstaClone
+An Instagram clone built using Flutter is a mobile application that replicates the core functionalities and features of the popular social media platform, Instagram. It is developed using the Flutter framework, which allows for cross-platform development, enabling the application to be deployed on both iOS and Android devices.
